@@ -55,3 +55,35 @@ I have the demo of this project on my google drive : https://drive.google.com/fi
 
 ## Interview History
 ![App Screenshot](assets/InterviewHistory.png)
+
+## Kiro Integration
+This project leverages [Kiro](https://kiro.dev/) to power the AI-driven mock interview functionality. Kiro is used for:
+
+1. Specs
+   - Defined the interview flow using .kiro specs (interview_flow)
+
+   - Workflow includes:
+     - Selecting interview type (behavioral, technical, system design)
+     - Dynamically asking questions based on type
+     - Collecting user responses
+     - Generating structured feedback
+      
+2. Hooks
+   - Automated actions such as:
+     - Generating a feedback report (feedback_report.md) after each interview
+     - Logging responses and scores for history and analytics
+   - Hooks streamline repetitive tasks, making the app faster and more reliable
+ 
+3. Steering
+   - Provided instructions to guide AI behavior:
+     - Use STAR method for behavioral questions
+     - Keep questions realistic and role-specific
+     - Modular design to add new interview types easily
+   - Steering ensures AI outputs are consistent, structured, and actionable
+     
+4. How Kiro Improves Development
+   - Reduces manual coding of conversation logic
+   - Ensures AI follows clear rules for evaluation and feedback
+   - Makes the system easily extensible for future interview types
+     
+6. 
