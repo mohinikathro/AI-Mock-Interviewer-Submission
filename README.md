@@ -56,7 +56,7 @@ This project leverages [Kiro](https://kiro.dev/) to power the AI-driven mock int
    - Ensures AI follows clear rules for evaluation and feedback
    - Makes the system easily extensible for future interview types
 
-## Sign in Page
+## Sign up Page
 ![App Screenshot](assets/MoSignup.png)
 
 ## Home page
