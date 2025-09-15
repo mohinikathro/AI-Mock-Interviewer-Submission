@@ -20,6 +20,20 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Installation & Running Locally
+
+Follow these steps to set up and run the project locally:
+
+1. Clone the repository
+   - git clone https://github.com/mohinikathro/AI-Mock-Interviewer-Submission.git
+   - cd AI-Mock-Interviewer-Submission
+  
+2. Install frontend dependencies
+   - run the following in the terminal
+     - npm install
+     - npm run dev
+
+
 ## Environment Setup
 Also the .env file should be kept inside the my-auth-backend folder for authentication and API functionality. Please contact me on [LinkedIn](https://www.linkedin.com/in/mohini-kathrotiya/) if you need access for running the project locally.
 
