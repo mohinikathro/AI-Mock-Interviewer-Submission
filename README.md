@@ -35,7 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-Also the .env file should be kept inside the my-auth-backend folder so the project work please connect with me on my linkedin for it.
+## Environment Setup
+Also the .env file should be kept inside the my-auth-backend folder for authentication and API functionality. Please contact me on [LinkedIn](https://www.linkedin.com/in/mohini-kathrotiya/) if you need access for running the project locally.
 
 ## Demo
 I have the demo of this project on my google drive : https://drive.google.com/file/d/1CFBYfDKHG15QJeAGJPcaTIIU8QtvgqVT/view?usp=drive_link
