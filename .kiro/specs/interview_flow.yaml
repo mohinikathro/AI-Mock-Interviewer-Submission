@@ -1,0 +1,9 @@
+name: interview_flow
+description: Spec for AI-powered mock interview session
+steps:
+  - User selects interview type (behavioral, technical, system design)
+  - AI interviewer dynamically asks questions
+  - User provides answers
+  - AI evaluates using a scoring rubric
+  - Feedback report generated at the end
+

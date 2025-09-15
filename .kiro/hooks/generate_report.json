@@ -1,0 +1,7 @@
+{
+  "name": "Generate Feedback Report",
+  "trigger": "interview_completed",
+  "action": "summarize_responses",
+  "output": "feedback_report.md"
+}
+
