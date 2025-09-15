@@ -40,14 +40,14 @@ Also the .env file should be kept inside the my-auth-backend folder so the proje
 ## Demo
 I have the demo of this project on my google drive : https://drive.google.com/file/d/1CFBYfDKHG15QJeAGJPcaTIIU8QtvgqVT/view?usp=drive_link
 
-## Home page
-![App Screenshot](assets/AppUI.png)
-
 ## Sign in Page
 ![App Screenshot](assets/MoSignup.png)
 
+## Home page
+![App Screenshot](assets/AppUI.png)
+
 ## Start Interview UI
-![App Screenshot](assets/StartIntervview.png)
+![App Screenshot](assets/StartInterview.png)
 
 ## Dashboard
 ![App Screenshot](assets/Dashboard.png)
